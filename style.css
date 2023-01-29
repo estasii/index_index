@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:#55c432;
+}
+.userCard{
+background-color: white;
+    border-radius: 20px;
+    border: 2px solid blue;
+    width: 450px;
+    height: 630px;
+    margin-left: 35%;
+}
+
+.title1{
+text-align: center;
+opacity: 70%;
+}
+.img{
+    border: 10px solid grey;
+    width: 150px;
+    height: 150px;
+    margin-left: 35%;
+    border-radius: 50%;
+    
+}
+.name{
+    height: 50px;
+    width: fit-content;
+    margin-left: 37%;
+    text-align: center;
+   
+}
+.text{
+    
+    
+    text-align: center;
+    width: 90%;
+    height: 80px;
+    margin-left: 5%;
+}
+.btn{
+    border: 1px solid white;
+    width: 160px;
+    height: 50px;
+    font-size:x-large;
+    margin-left: 35%;
+    margin-top: 60px;
+    border-radius: 10px;
+    background-color: #329ec4;
+    cursor: pointer;
+    color: white;
+}
